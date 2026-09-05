@@ -1,0 +1,1 @@
+Example for reading of hyperspectral map for zone 5 measured in transmission regime. The whl package micromap should be installed and prepared file fit_zone_5_202604.pkl with hyperspectral map should be located in the same folder with script
